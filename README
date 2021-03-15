@@ -1,1 +1,15 @@
 Un repositorio creado localmente y luego subido.
+
+Comandos para actualizar repositorio online.  
+1. Añadir archivos: 
+	- git add "nombre del archivo"
+	- git commit -m "Algún mensaje con explicaciones"
+2. Conectar ela carpeta con el repositorio:
+	- git remote add origin https://github.com/nombre_usuario/nombre_repositorio.git
+3. Subir los archivos al repositorio.
+	- git push origin master
+
+Comandos para bajar el repositorio 
+4. Para clonar el repositorio a una carpeta local se necesita la dirección web,
+una vez obtenida basta escribir: 
+	- git clone direccion_web  
