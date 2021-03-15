@@ -1,3 +1,6 @@
 Un nuevo archivo añadido en el servidor para bajarlo a la carpeta.
 
 Esta línea se ha añadido localmente tras utilizar "git pull".
+
+Esta línea ha sido añadida de nuevo en el servidor, para ello se ha tenido que añadir la modificación anterior con git add otro_archivo,
+comentar el cambio con """git commit -m "blablabla" """ y subirlo con "git push" 
